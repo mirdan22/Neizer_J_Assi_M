@@ -117,7 +117,7 @@
     left: 0;
   
     background-color: rgba(0, 0, 0, 0.85);
-    background-image: url('../images/Cap_LB_Bg.png');
+    background-image: url('../images/Flag_of_Portugal.webp'); 
     background-repeat: no-repeat;
   
     background-size: 55vh; /* 55% of the viewport height */
@@ -126,7 +126,7 @@
     display: none;
   }
   
-  #lightbox2 { background-image: url('../images/Thor_LB_Bg.png'); }
+  #lightbox2 { background-image: url('../images/Flag_of_Poland.png'); }
   
   .lightbox_close {
     position: relative;
