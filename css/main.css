@@ -24,9 +24,8 @@
   /* main header rules */
   header {
     position: sticky;
-    top: 0;
-    display: flex;
-    justify-content: end;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.726);
   }
   
   #main-logo { width: 220px; padding: 10px 20px; margin-left: auto; }
@@ -51,7 +50,10 @@
   .characters li h5 {
     color: white;
     padding: 12px 8px;
+    z-index: 500;
+    position: relative;
   }
+  
   
   .characters li a { text-decoration: none; }
   
