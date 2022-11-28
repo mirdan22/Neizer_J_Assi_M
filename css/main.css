@@ -78,6 +78,9 @@
 article h3  {
     font-size: 2.5em;
     margin-bottom: 14px;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 15px;
   }
   
   /* select the p tag inside the article tag on the page */
@@ -87,12 +90,7 @@ article p {
     text-align: center;
 }
   
-article h3 {
-    text-align: center;
-    font-size: 35px;
-    margin-bottom: 10px; 
-    margin-top: 15px;     
-}
+
 
   .sprite {
     width: 150px;
@@ -134,14 +132,14 @@ article h3 {
     background-color: rgb(0, 0, 0);
     background-image: url('../images/Flag_of_Portugal.webp'); 
     background-repeat: no-repeat;
-  
+     
     background-size: 55vh; /* 55% of the viewport height */
     background-position: 40px bottom;
   
     display: none;
   }
   
-  #lightbox2 { background-image: url('../images/Flag_of_Poland.png'); }
+  #lightbox2 { background-image: url('../images/Flag_of_Poland.png'); background-position: top;}
   
   .lightbox_close {
     position: relative;
@@ -170,6 +168,7 @@ article h3 {
     line-height: 1.6 !important;
     margin-left: 0;
     padding-top: 2em;
+    text-align: justify;
   }
   
   /* turn the lightbox on using the :target pseudo selector */
