@@ -1,17 +1,15 @@
 # Neizer_J_Assi_M
 
 # World Cup Teams
+A list of World Cup 2022 teams and informations about thier journey.
 
-TODO: Write a project description
 
-A list of World Cup 2022 teams
 ## Installation
-
-TODO: Describe the installation process
+ installation process is we made webpage included a list of World Cup teams such as, Portugal, pland, Brazil, etc. We created a lightbox for each teams. When you hover over any of the flags, the playes of the team show up. Also, when you click a team the lightbox activetes  and showes information about the team.
 
 ## Usage
+The useage of this weboage is to give informatiom about the teams journey in the list. You get to click on your favorite team or any team and read informations about them.
 
-TODO: Write usage instructions
 
 ## Contributing
 
@@ -27,7 +25,7 @@ TODO: Write history
 
 ## Credits
 
-TODO: Write credits
+FIFA
 
 ## License
 
